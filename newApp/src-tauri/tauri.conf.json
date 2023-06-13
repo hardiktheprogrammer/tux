@@ -38,8 +38,8 @@
         "fullscreen": false,
         "resizable": true,
         "title": "newApp",
-        "width": 900,
-        "height": 900
+        "width": 2000,
+        "height": 2000
       }
     ]
   }
